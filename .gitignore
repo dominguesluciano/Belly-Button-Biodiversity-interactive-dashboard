@@ -1,7 +1,3 @@
-#mac os diles
-.DS_Store
-**/.DS_Store
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#mac os files
+.DS_Store
+**/.DS_Store
