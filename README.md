@@ -1,6 +1,9 @@
 # Belly Button Biodiversity
 ## Interactive dashboard with Plotly.js
 
+
+### Synopsis
+
 An interactive dashboard to explore [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
@@ -18,7 +21,7 @@ The dashboard allows the selection of tests samples by ID and display its inform
 The table shows demographic information for each sample from individuals that undergo the test. The horizontal bar chart indicates which bacterias were found in each sample and its amount. The Bubble Chart adds a new layer of information enabling the comparison of all bacteria present on the seleced sample and the amount for each bacteria.
 
 
-## Deployment
+### Deployment
 
 The dashboard can be visualized in this github page: https://bit.ly/3gnLe1C 
 
