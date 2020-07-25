@@ -23,7 +23,7 @@ The table shows demographic information for each sample from individuals that un
 
 ### Deployment
 
-The dashboard can be visualized in this github page: https://bit.ly/3gnLe1C 
+The dashboard can be visualized in as a Heroku App: https://bit.ly/2BsAXCs
 
 
 #### About the Data
