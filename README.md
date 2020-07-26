@@ -23,7 +23,7 @@ The table shows demographic information for each sample from individuals that un
 
 ### Deployment
 
-The dashboard can be visualized in as a Heroku App: https://bit.ly/2BsAXCs
+The dashboard can be visualized in as a Heroku App: https://interactive-dash-belly-button.herokuapp.com/
 
 
 #### About the Data
